@@ -1,0 +1,112 @@
+Content Added!
+spotify-this-song ----------
+
+"I Want It That Way by Backstreet Boys"
+"preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=412432fc718f4ccab21925ff76a7fdb4"
+"album: The Hits--Chapter One"
+"track number: 1"
+"released date: 2001-10-29"
+"album cover: https://i.scdn.co/image/91142eab23c3273fa73e490f2d04464c69423f75"
+"album URL: https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r"
+********************
+
+Recent history on Twitter: 
+"Automated message from npm CLI 2 (Thu Jul 26 02:02:00 +0000 2018)"
+"Automated message from npm CLI 2 (Wed Jul 25 04:08:06 +0000 2018)"
+"Automated message from npm CLI (Wed Jul 25 03:42:45 +0000 2018)"
+"\"Automated message from npm CLI\" (Wed Jul 25 03:41:23 +0000 2018)"
+"another testing from npm CLI (Wed Jul 25 02:43:48 +0000 2018)"
+"posting from twitter npm CLI (Tue Jul 24 01:04:20 +0000 2018)"
+"Whether you can or you can't, you will be right. (Mon Jul 23 23:02:52 +0000 2018)"
+"Just setting up my Twitter. #myfirstTweet (Mon Jul 23 22:58:58 +0000 2018)"
+********************
+
+Recent history on Twitter: 
+"Automated message from npm CLI 2 (Thu Jul 26 02:02:00 +0000 2018)"
+"Automated message from npm CLI 2 (Wed Jul 25 04:08:06 +0000 2018)"
+"Automated message from npm CLI (Wed Jul 25 03:42:45 +0000 2018)"
+"\"Automated message from npm CLI\" (Wed Jul 25 03:41:23 +0000 2018)"
+"another testing from npm CLI (Wed Jul 25 02:43:48 +0000 2018)"
+"posting from twitter npm CLI (Tue Jul 24 01:04:20 +0000 2018)"
+"Whether you can or you can't, you will be right. (Mon Jul 23 23:02:52 +0000 2018)"
+"Just setting up my Twitter. #myfirstTweet (Mon Jul 23 22:58:58 +0000 2018)"
+********************
+
+Posted the message on Twitter: another testing from npm cli
+********************
+"another testing from npm cli (Thu Jul 26 23:06:08 +0000 2018)"
+
+Recent history on Twitter: 
+"another testing from npm cli (Thu Jul 26 23:06:08 +0000 2018)"
+"Automated message from npm CLI 2 (Thu Jul 26 02:02:00 +0000 2018)"
+"Automated message from npm CLI 2 (Wed Jul 25 04:08:06 +0000 2018)"
+"Automated message from npm CLI (Wed Jul 25 03:42:45 +0000 2018)"
+"\"Automated message from npm CLI\" (Wed Jul 25 03:41:23 +0000 2018)"
+"another testing from npm CLI (Wed Jul 25 02:43:48 +0000 2018)"
+"posting from twitter npm CLI (Tue Jul 24 01:04:20 +0000 2018)"
+"Whether you can or you can't, you will be right. (Mon Jul 23 23:02:52 +0000 2018)"
+"Just setting up my Twitter. #myfirstTweet (Mon Jul 23 22:58:58 +0000 2018)"
+********************
+my-tweets
+
+Recent history on Twitter: 
+"another testing from npm cli (Thu Jul 26 23:06:08 +0000 2018)"
+"Automated message from npm CLI 2 (Thu Jul 26 02:02:00 +0000 2018)"
+"Automated message from npm CLI 2 (Wed Jul 25 04:08:06 +0000 2018)"
+"Automated message from npm CLI (Wed Jul 25 03:42:45 +0000 2018)"
+"\"Automated message from npm CLI\" (Wed Jul 25 03:41:23 +0000 2018)"
+"another testing from npm CLI (Wed Jul 25 02:43:48 +0000 2018)"
+"posting from twitter npm CLI (Tue Jul 24 01:04:20 +0000 2018)"
+"Whether you can or you can't, you will be right. (Mon Jul 23 23:02:52 +0000 2018)"
+"Just setting up my Twitter. #myfirstTweet (Mon Jul 23 22:58:58 +0000 2018)"
+********************
+movie-this
+movie-this
+
+Title: Titanic (1997)
+Rating --- 7.8(IMDB), 88%(Rotten Tomatoes)
+Country: USA
+Language: English, Swedish
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+********************
+
+my-tweets
+
+Recent history on Twitter: 
+"another testing from npm cli (Thu Jul 26 23:06:08 +0000 2018)"
+"Automated message from npm CLI 2 (Thu Jul 26 02:02:00 +0000 2018)"
+"Automated message from npm CLI 2 (Wed Jul 25 04:08:06 +0000 2018)"
+"Automated message from npm CLI (Wed Jul 25 03:42:45 +0000 2018)"
+"\"Automated message from npm CLI\" (Wed Jul 25 03:41:23 +0000 2018)"
+"another testing from npm CLI (Wed Jul 25 02:43:48 +0000 2018)"
+"posting from twitter npm CLI (Tue Jul 24 01:04:20 +0000 2018)"
+"Whether you can or you can't, you will be right. (Mon Jul 23 23:02:52 +0000 2018)"
+"Just setting up my Twitter. #myfirstTweet (Mon Jul 23 22:58:58 +0000 2018)"
+********************
+movie-this
+
+Title: Titanic (1997)
+Rating --- 7.8(IMDB), 88%(Rotten Tomatoes)
+Country: USA
+Language: English, Swedish
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+********************
+
+spotify-this-song
+post-tweets
+
+Posted the message on Twitter: Automated message from npm CLI 2
+********************
+"Automated message from npm CLI 2 (Thu Jul 26 23:10:46 +0000 2018)"
+
+"Hello Beautiful by Noah Schnacky"
+"preview: https://p.scdn.co/mp3-preview/10a58d5841ccfb4e12cb4651b0b7b7c65b5dfe86?cid=412432fc718f4ccab21925ff76a7fdb4"
+"album: Hello Beautiful"
+"track number: 1"
+"released date: 2018-01-27"
+"album cover: https://i.scdn.co/image/9cc8f7aaaae42e3928db24789139251cc578e0ae"
+"album URL: https://open.spotify.com/album/2EoqXTEJ8DGjmaOu1uVvW4"
+********************
+
